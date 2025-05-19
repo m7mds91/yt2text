@@ -24,7 +24,9 @@ Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
-Make sure you have ffmpeg installed and added to PATH.
+You must have ffmpeg installed and added to your system PATH.
+✅ Download: https://ffmpeg.org/download.html
+
 Run the App
 ```bash
 python YT2text.py
