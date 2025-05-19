@@ -11,7 +11,7 @@ This is a Python desktop GUI app that uses OpenAI's Whisper model to transcribe:
 - ✅ Reset interface & auto-cleanup
 
 ---
-
+![Screenshot of app](screenshot.jpg)
 ## 🚀 How to Use
 
 ### 1. Clone the Repo
