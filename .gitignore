@@ -1,0 +1,7 @@
+__pycache__/
+audio.mp3
+*.cache/
+*.pyc
+*.pth
+*.tmp
+whisper_cache/
