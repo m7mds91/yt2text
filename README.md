@@ -20,14 +20,14 @@ This is a Python desktop GUI app that uses OpenAI's Whisper model to transcribe:
 git clone https://github.com/m7mds91/yt2text.git
 cd yt2text
 ```
-Install Requirements
+### 2. Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
 You must have ffmpeg installed and added to your system PATH.
 ✅ Download: https://ffmpeg.org/download.html
 
-Run the App
+### 3. Run the App
 ```bash
 python YT2text.py
 ```
